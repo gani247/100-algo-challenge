@@ -1,7 +1,3 @@
-// Java program to sort a string alphabetically
-
-import java.util.Arrays;
-
 public class ConvertVariableNames
 {
 	// Method to sort a string alphabetically
