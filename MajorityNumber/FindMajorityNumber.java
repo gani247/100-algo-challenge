@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class GFG
+public class FindMajorityNumber
 {
 	// Method to sort a string alphabetically
 	public static int findNumber(int n, int[] arr)
